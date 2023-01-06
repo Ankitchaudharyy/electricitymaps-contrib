@@ -169,11 +169,11 @@
         "center": [13.3, 47.7]
       }
     },
-    "AUS-NSW": {
+    "AU-NSW": {
       "type": "MultiPolygon",
       "arcs": [[[77, 78, 79, 80]]],
       "properties": {
-        "zoneName": "AUS-NSW",
+        "zoneName": "AU-NSW",
         "countryKey": "AU",
         "countryName": "Australia",
         "isAggregatedView": false,
@@ -193,11 +193,11 @@
         "center": [133.5, -18.5]
       }
     },
-    "AUS-QLD": {
+    "AU-QLD": {
       "type": "MultiPolygon",
       "arcs": [[[90, -84, 91, -78]], [[92]], [[93]], [[94]], [[95]], [[96]], [[97]]],
       "properties": {
-        "zoneName": "AUS-QLD",
+        "zoneName": "AU-QLD",
         "countryKey": "AU",
         "countryName": "Australia",
         "isAggregatedView": false,
@@ -205,11 +205,11 @@
         "center": [145.8, -19.9]
       }
     },
-    "AUS-SA": {
+    "AU-SA": {
       "type": "MultiPolygon",
       "arcs": [[[-92, -83, 98, 99, 100, -79]], [[101]]],
       "properties": {
-        "zoneName": "AUS-SA",
+        "zoneName": "AU-SA",
         "countryKey": "AU",
         "countryName": "Australia",
         "isAggregatedView": false,
@@ -217,11 +217,11 @@
         "center": [135, -32]
       }
     },
-    "AUS-TAS": {
+    "AU-TAS": {
       "type": "MultiPolygon",
       "arcs": [[[102]], [[103]]],
       "properties": {
-        "zoneName": "AUS-TAS",
+        "zoneName": "AU-TAS",
         "countryKey": "AU",
         "countryName": "Australia",
         "isAggregatedView": false,
@@ -229,11 +229,11 @@
         "center": [146.5, -42.2]
       }
     },
-    "AUS-TAS-KI": {
+    "AU-TAS-KI": {
       "type": "MultiPolygon",
       "arcs": [[[104]]],
       "properties": {
-        "zoneName": "AUS-TAS-KI",
+        "zoneName": "AU-TAS-KI",
         "countryKey": "AU",
         "countryName": "Australia",
         "isAggregatedView": false,
@@ -241,11 +241,11 @@
         "center": [144, -39.9]
       }
     },
-    "AUS-TAS-FI": {
+    "AU-TAS-FI": {
       "type": "MultiPolygon",
       "arcs": [[[105]]],
       "properties": {
-        "zoneName": "AUS-TAS-FI",
+        "zoneName": "AU-TAS-FI",
         "countryKey": "AU",
         "countryName": "Australia",
         "isAggregatedView": false,
@@ -265,11 +265,11 @@
         "center": [148.2, -40.4]
       }
     },
-    "AUS-VIC": {
+    "AU-VIC": {
       "type": "MultiPolygon",
       "arcs": [[[-101, 107, -80]]],
       "properties": {
-        "zoneName": "AUS-VIC",
+        "zoneName": "AU-VIC",
         "countryKey": "AU",
         "countryName": "Australia",
         "isAggregatedView": false,
@@ -277,11 +277,11 @@
         "center": [145.5, -36.6]
       }
     },
-    "AUS-WA": {
+    "AU-WA": {
       "type": "MultiPolygon",
       "arcs": [[[108, -99, -82]], [[109]]],
       "properties": {
-        "zoneName": "AUS-WA",
+        "zoneName": "AU-WA",
         "countryKey": "AU",
         "countryName": "Australia",
         "isAggregatedView": false,
@@ -404,7 +404,7 @@
         "zoneName": "BR-CS",
         "countryKey": "BR",
         "countryName": "Brazil",
-        "isAggregatedView": true,
+        "isAggregatedView": false,
         "isHighestGranularity": true,
         "center": [-56.8, -16.2]
       }
@@ -429,7 +429,7 @@
         "zoneName": "BR-N",
         "countryKey": "BR",
         "countryName": "Brazil",
-        "isAggregatedView": true,
+        "isAggregatedView": false,
         "isHighestGranularity": true,
         "center": [-57.8, -4]
       }
@@ -441,7 +441,7 @@
         "zoneName": "BR-NE",
         "countryKey": "BR",
         "countryName": "Brazil",
-        "isAggregatedView": true,
+        "isAggregatedView": false,
         "isHighestGranularity": true,
         "center": [-40.7, -10.5]
       }
@@ -453,7 +453,7 @@
         "zoneName": "BR-S",
         "countryKey": "BR",
         "countryName": "Brazil",
-        "isAggregatedView": true,
+        "isAggregatedView": false,
         "isHighestGranularity": true,
         "center": [-52.8, -28.1]
       }
@@ -1538,7 +1538,7 @@
         "zoneName": "FO-MI",
         "countryKey": "FO",
         "countryName": "Faroe Islands",
-        "isAggregatedView": true,
+        "isAggregatedView": false,
         "isHighestGranularity": true,
         "center": [-6.9, 62.1]
       }
@@ -5281,11 +5281,11 @@
         "center": [29.1, -19]
       }
     },
-    "AUS-WA-RI": {
+    "AU-WA-RI": {
       "type": "MultiPolygon",
       "arcs": [[[2109]]],
       "properties": {
-        "zoneName": "AUS-WA-RI",
+        "zoneName": "AU-WA-RI",
         "countryKey": "AU",
         "countryName": "Australia",
         "isAggregatedView": false,
@@ -5360,7 +5360,7 @@
         "zoneName": "FO-SI",
         "countryKey": "FO",
         "countryName": "Faroe Islands",
-        "isAggregatedView": true,
+        "isAggregatedView": false,
         "isHighestGranularity": true,
         "center": [-6.8, 61.5]
       }
@@ -5410,6 +5410,35 @@
         "center": [133.3, -27.2]
       }
     },
+    "BR": {
+      "type": "MultiPolygon",
+      "arcs": [
+        [[-145, 147, 177, -56, 175, 176, 149, 174, -162, -161, -160, -159, -158, -157, -156, 152]],
+        [[-165]],
+        [[-166]],
+        [[-164]],
+        [[-168]],
+        [[-167]],
+        [[-170]],
+        [[-174]],
+        [[-172]],
+        [[-171]],
+        [[-173]],
+        [[-169]],
+        [[179]],
+        [[178]],
+        [[153]],
+        [[154]]
+      ],
+      "properties": {
+        "isHighestGranularity": false,
+        "isAggregatedView": true,
+        "isCombined": true,
+        "countryKey": "BR",
+        "zoneName": "BR",
+        "center": [-54.4, -14.2]
+      }
+    },
     "DK": {
       "type": "MultiPolygon",
       "arcs": [[[-620, 629]], [[630]], [[634]], [[632]], [[633]], [[631]], [[635]], [[636]], [[637]], [[638]]],
@@ -5420,6 +5449,18 @@
         "countryKey": "DK",
         "zoneName": "DK",
         "center": [11.6, 56.2]
+      }
+    },
+    "FO": {
+      "type": "MultiPolygon",
+      "arcs": [[[710]], [[711]], [[2115]], [[709]], [[712]]],
+      "properties": {
+        "isHighestGranularity": false,
+        "isAggregatedView": true,
+        "isCombined": true,
+        "countryKey": "FO",
+        "zoneName": "FO",
+        "center": [-6.9, 61.9]
       }
     },
     "IT": {
